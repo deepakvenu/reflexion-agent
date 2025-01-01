@@ -1,0 +1,502 @@
+[
+    {
+        "M_ID": "MOLY00436685",
+        "lina_run_output": "Failure",
+        "lina_run_time": "10022022 212008"
+    },
+    {
+        "M_ID": "MOLY01529814",
+        "lina_run_output": "Failure",
+        "lina_run_time": "21082023 071515"
+    },
+    {
+        "M_ID": "MOLY01623448",
+        "lina_run_output": "Failure",
+        "lina_run_time": "25012023 220707"
+    },
+    {
+        "M_ID": "MOLY03600685",
+        "lina_run_output": "Failure",
+        "lina_run_time": "03102022 184330"
+    },
+    {
+        "M_ID": "MOLY04078206",
+        "lina_run_output": "Failure",
+        "lina_run_time": "13032023 012748"
+    },
+    {
+        "M_ID": "MOLY05049512",
+        "lina_run_output": "Success",
+        "lina_run_time": "28102023 073457"
+    },
+    {
+        "M_ID": "MOLY05155490",
+        "lina_run_output": "Success",
+        "lina_run_time": "03072022 162902"
+    },
+    {
+        "M_ID": "MOLY05579184",
+        "lina_run_output": "Failure",
+        "lina_run_time": "05102022 004942"
+    },
+    {
+        "M_ID": "MOLY05684979",
+        "lina_run_output": "Failure",
+        "lina_run_time": "12072023 035102"
+    },
+    {
+        "M_ID": "MOLY07157408",
+        "lina_run_output": "Failure",
+        "lina_run_time": "15112023 061506"
+    },
+    {
+        "M_ID": "MOLY07765498",
+        "lina_run_output": "Failure",
+        "lina_run_time": "22102023 010534"
+    },
+    {
+        "M_ID": "MOLY09192896",
+        "lina_run_output": "Success",
+        "lina_run_time": "30032023 230823"
+    },
+    {
+        "M_ID": "MOLY10585676",
+        "lina_run_output": "Success",
+        "lina_run_time": "13022023 194610"
+    },
+    {
+        "M_ID": "MOLY13194913",
+        "lina_run_output": "Failure",
+        "lina_run_time": "02112023 204221"
+    },
+    {
+        "M_ID": "MOLY14396449",
+        "lina_run_output": "Failure",
+        "lina_run_time": "06042022 071519"
+    },
+    {
+        "M_ID": "MOLY15582419",
+        "lina_run_output": "Success",
+        "lina_run_time": "21102023 003201"
+    },
+    {
+        "M_ID": "MOLY17524324",
+        "lina_run_output": "Success",
+        "lina_run_time": "10032022 193250"
+    },
+    {
+        "M_ID": "MOLY18367719",
+        "lina_run_output": "Success",
+        "lina_run_time": "04012022 023834"
+    },
+    {
+        "M_ID": "MOLY18568991",
+        "lina_run_output": "Success",
+        "lina_run_time": "08032023 100439"
+    },
+    {
+        "M_ID": "MOLY20104179",
+        "lina_run_output": "Success",
+        "lina_run_time": "18042023 045457"
+    },
+    {
+        "M_ID": "MOLY21613145",
+        "lina_run_output": "Failure",
+        "lina_run_time": "16032022 221556"
+    },
+    {
+        "M_ID": "MOLY22615060",
+        "lina_run_output": "Success",
+        "lina_run_time": "04032022 124900"
+    },
+    {
+        "M_ID": "MOLY23354646",
+        "lina_run_output": "Failure",
+        "lina_run_time": "08062023 004952"
+    },
+    {
+        "M_ID": "MOLY23599260",
+        "lina_run_output": "Failure",
+        "lina_run_time": "28072022 201600"
+    },
+    {
+        "M_ID": "MOLY23953685",
+        "lina_run_output": "Failure",
+        "lina_run_time": "18022022 065723"
+    },
+    {
+        "M_ID": "MOLY23971918",
+        "lina_run_output": "Failure",
+        "lina_run_time": "20052022 151700"
+    },
+    {
+        "M_ID": "MOLY24051686",
+        "lina_run_output": "Failure",
+        "lina_run_time": "27072022 063410"
+    },
+    {
+        "M_ID": "MOLY25964066",
+        "lina_run_output": "Failure",
+        "lina_run_time": "14012023 145617"
+    },
+    {
+        "M_ID": "MOLY27496990",
+        "lina_run_output": "Failure",
+        "lina_run_time": "05072022 151440"
+    },
+    {
+        "M_ID": "MOLY28785321",
+        "lina_run_output": "Failure",
+        "lina_run_time": "20062023 032840"
+    },
+    {
+        "M_ID": "MOLY29716548",
+        "lina_run_output": "Failure",
+        "lina_run_time": "11122023 141243"
+    },
+    {
+        "M_ID": "MOLY29984579",
+        "lina_run_output": "Failure",
+        "lina_run_time": "05022023 180803"
+    },
+    {
+        "M_ID": "MOLY30101302",
+        "lina_run_output": "Success",
+        "lina_run_time": "11062022 094032"
+    },
+    {
+        "M_ID": "MOLY30880769",
+        "lina_run_output": "Success",
+        "lina_run_time": "09032022 032004"
+    },
+    {
+        "M_ID": "MOLY36434407",
+        "lina_run_output": "Failure",
+        "lina_run_time": "19062022 185834"
+    },
+    {
+        "M_ID": "MOLY36682853",
+        "lina_run_output": "Failure",
+        "lina_run_time": "29122022 075537"
+    },
+    {
+        "M_ID": "MOLY38053799",
+        "lina_run_output": "Success",
+        "lina_run_time": "31102023 122720"
+    },
+    {
+        "M_ID": "MOLY38075267",
+        "lina_run_output": "Failure",
+        "lina_run_time": "05042022 175648"
+    },
+    {
+        "M_ID": "MOLY40117195",
+        "lina_run_output": "Failure",
+        "lina_run_time": "20022022 174720"
+    },
+    {
+        "M_ID": "MOLY40464186",
+        "lina_run_output": "Success",
+        "lina_run_time": "18112023 052553"
+    },
+    {
+        "M_ID": "MOLY41021220",
+        "lina_run_output": "Success",
+        "lina_run_time": "07042022 071519"
+    },
+    {
+        "M_ID": "MOLY41224482",
+        "lina_run_output": "Failure",
+        "lina_run_time": "24112023 174543"
+    },
+    {
+        "M_ID": "MOLY41847613",
+        "lina_run_output": "Failure",
+        "lina_run_time": "20032022 061930"
+    },
+    {
+        "M_ID": "MOLY42313197",
+        "lina_run_output": "Failure",
+        "lina_run_time": "21032023 095312"
+    },
+    {
+        "M_ID": "MOLY45180037",
+        "lina_run_output": "Success",
+        "lina_run_time": "06062023 203759"
+    },
+    {
+        "M_ID": "MOLY46511283",
+        "lina_run_output": "Failure",
+        "lina_run_time": "12012022 193445"
+    },
+    {
+        "M_ID": "MOLY46817757",
+        "lina_run_output": "Failure",
+        "lina_run_time": "16082022 113207"
+    },
+    {
+        "M_ID": "MOLY48132957",
+        "lina_run_output": "Success",
+        "lina_run_time": "20112023 011324"
+    },
+    {
+        "M_ID": "MOLY49295866",
+        "lina_run_output": "Failure",
+        "lina_run_time": "21122022 174057"
+    },
+    {
+        "M_ID": "MOLY51126410",
+        "lina_run_output": "Failure",
+        "lina_run_time": "17122023 221706"
+    },
+    {
+        "M_ID": "MOLY51435959",
+        "lina_run_output": "Failure",
+        "lina_run_time": "01072022 213122"
+    },
+    {
+        "M_ID": "MOLY53477339",
+        "lina_run_output": "Success",
+        "lina_run_time": "17072022 104127"
+    },
+    {
+        "M_ID": "MOLY54862666",
+        "lina_run_output": "Failure",
+        "lina_run_time": "24082022 105113"
+    },
+    {
+        "M_ID": "MOLY55628863",
+        "lina_run_output": "Failure",
+        "lina_run_time": "18052023 161028"
+    },
+    {
+        "M_ID": "MOLY57112024",
+        "lina_run_output": "Failure",
+        "lina_run_time": "17042022 074125"
+    },
+    {
+        "M_ID": "MOLY57291237",
+        "lina_run_output": "Failure",
+        "lina_run_time": "29052023 034832"
+    },
+    {
+        "M_ID": "MOLY59005181",
+        "lina_run_output": "Failure",
+        "lina_run_time": "24082023 021910"
+    },
+    {
+        "M_ID": "MOLY59269598",
+        "lina_run_output": "Failure",
+        "lina_run_time": "12072023 113017"
+    },
+    {
+        "M_ID": "MOLY60065430",
+        "lina_run_output": "Failure",
+        "lina_run_time": "15012023 232643"
+    },
+    {
+        "M_ID": "MOLY60146408",
+        "lina_run_output": "Success",
+        "lina_run_time": "12082023 110856"
+    },
+    {
+        "M_ID": "MOLY60191382",
+        "lina_run_output": "Failure",
+        "lina_run_time": "28022023 072456"
+    },
+    {
+        "M_ID": "MOLY60366260",
+        "lina_run_output": "Success",
+        "lina_run_time": "01062023 130621"
+    },
+    {
+        "M_ID": "MOLY60991790",
+        "lina_run_output": "Success",
+        "lina_run_time": "12042022 135835"
+    },
+    {
+        "M_ID": "MOLY61108087",
+        "lina_run_output": "Failure",
+        "lina_run_time": "04102022 111957"
+    },
+    {
+        "M_ID": "MOLY61992011",
+        "lina_run_output": "Failure",
+        "lina_run_time": "13122023 010642"
+    },
+    {
+        "M_ID": "MOLY62585010",
+        "lina_run_output": "Success",
+        "lina_run_time": "16082022 054625"
+    },
+    {
+        "M_ID": "MOLY62586269",
+        "lina_run_output": "Success",
+        "lina_run_time": "18122023 153751"
+    },
+    {
+        "M_ID": "MOLY63523272",
+        "lina_run_output": "Success",
+        "lina_run_time": "16082022 005046"
+    },
+    {
+        "M_ID": "MOLY64695622",
+        "lina_run_output": "Success",
+        "lina_run_time": "12082023 141328"
+    },
+    {
+        "M_ID": "MOLY65493641",
+        "lina_run_output": "Failure",
+        "lina_run_time": "28042022 015156"
+    },
+    {
+        "M_ID": "MOLY66125655",
+        "lina_run_output": "Failure",
+        "lina_run_time": "13102022 034216"
+    },
+    {
+        "M_ID": "MOLY67062531",
+        "lina_run_output": "Success",
+        "lina_run_time": "03052022 052830"
+    },
+    {
+        "M_ID": "MOLY72024229",
+        "lina_run_output": "Failure",
+        "lina_run_time": "05052022 065621"
+    },
+    {
+        "M_ID": "MOLY72857316",
+        "lina_run_output": "Success",
+        "lina_run_time": "03032022 001733"
+    },
+    {
+        "M_ID": "MOLY73379422",
+        "lina_run_output": "Failure",
+        "lina_run_time": "30122023 092654"
+    },
+    {
+        "M_ID": "MOLY73700364",
+        "lina_run_output": "Failure",
+        "lina_run_time": "05042023 102904"
+    },
+    {
+        "M_ID": "MOLY75555124",
+        "lina_run_output": "Success",
+        "lina_run_time": "30122022 001609"
+    },
+    {
+        "M_ID": "MOLY77153841",
+        "lina_run_output": "Failure",
+        "lina_run_time": "06012022 141014"
+    },
+    {
+        "M_ID": "MOLY78812523",
+        "lina_run_output": "Success",
+        "lina_run_time": "09012022 134307"
+    },
+    {
+        "M_ID": "MOLY80467112",
+        "lina_run_output": "Success",
+        "lina_run_time": "04012023 103341"
+    },
+    {
+        "M_ID": "MOLY83330341",
+        "lina_run_output": "Failure",
+        "lina_run_time": "13012023 051420"
+    },
+    {
+        "M_ID": "MOLY85205923",
+        "lina_run_output": "Failure",
+        "lina_run_time": "25012023 082656"
+    },
+    {
+        "M_ID": "MOLY86705850",
+        "lina_run_output": "Failure",
+        "lina_run_time": "02072023 122828"
+    },
+    {
+        "M_ID": "MOLY87078378",
+        "lina_run_output": "Failure",
+        "lina_run_time": "17072023 073715"
+    },
+    {
+        "M_ID": "MOLY87360607",
+        "lina_run_output": "Success",
+        "lina_run_time": "10032022 141623"
+    },
+    {
+        "M_ID": "MOLY87638292",
+        "lina_run_output": "Success",
+        "lina_run_time": "23032023 023840"
+    },
+    {
+        "M_ID": "MOLY88914633",
+        "lina_run_output": "Success",
+        "lina_run_time": "01122022 041026"
+    },
+    {
+        "M_ID": "MOLY90424317",
+        "lina_run_output": "Success",
+        "lina_run_time": "03092023 160020"
+    },
+    {
+        "M_ID": "MOLY90697606",
+        "lina_run_output": "Success",
+        "lina_run_time": "01012022 052228"
+    },
+    {
+        "M_ID": "MOLY91095883",
+        "lina_run_output": "Success",
+        "lina_run_time": "18022022 131129"
+    },
+    {
+        "M_ID": "MOLY91291715",
+        "lina_run_output": "Success",
+        "lina_run_time": "20072022 185605"
+    },
+    {
+        "M_ID": "MOLY92593515",
+        "lina_run_output": "Failure",
+        "lina_run_time": "08072022 114237"
+    },
+    {
+        "M_ID": "MOLY93859844",
+        "lina_run_output": "Success",
+        "lina_run_time": "12052023 030523"
+    },
+    {
+        "M_ID": "MOLY96613056",
+        "lina_run_output": "Success",
+        "lina_run_time": "04062023 052949"
+    },
+    {
+        "M_ID": "MOLY96797053",
+        "lina_run_output": "Failure",
+        "lina_run_time": "07082022 120502"
+    },
+    {
+        "M_ID": "MOLY97028964",
+        "lina_run_output": "Failure",
+        "lina_run_time": "21012023 060305"
+    },
+    {
+        "M_ID": "MOLY98020425",
+        "lina_run_output": "Failure",
+        "lina_run_time": "12062023 002425"
+    },
+    {
+        "M_ID": "MOLY98359695",
+        "lina_run_output": "Failure",
+        "lina_run_time": "25012023 203810"
+    },
+    {
+        "M_ID": "MOLY98438332",
+        "lina_run_output": "Success",
+        "lina_run_time": "07122022 021103"
+    },
+    {
+        "M_ID": "MOLY98720071",
+        "lina_run_output": "Success",
+        "lina_run_time": "02112023 091156"
+    }
+]
